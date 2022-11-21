@@ -148,9 +148,7 @@ function App() {
       </section>
       <section className="last">
         <Fade top>
-          <h2 className="heading">
-            The Incubator Hub <br /> <span>(And How Were Different)</span>
-          </h2>
+          <h2 className="heading">The Incubator Hub</h2>
         </Fade>
         <Fade>
           <img src="/hero-hen.png" alt="" />
@@ -166,13 +164,23 @@ function App() {
           <Fade top>
             <h2>In partnership with</h2>
           </Fade>
-          <Fade bottom>
+          {window.innerWidth > 650 ? (
+            <Fade bottom>
+              <div className="row">
+                <img src="/logo-white.png" alt="" />
+                <img src="/trans shib.png" alt="" />
+                <img src="/wagmi.png" alt="" />
+              </div>
+            </Fade>
+          ) : (
             <div className="row">
-              <img src="/logo-white.png" alt="" />
-              <img src="/trans shib.png" alt="" />
-              <img src="/wagmi.png" alt="" />
+              <Fade left cascade>
+                <img src="/logo-white.png" alt="" />
+                <img src="/trans shib.png" alt="" />
+                <img src="/wagmi.png" alt="" />
+              </Fade>
             </div>
-          </Fade>
+          )}
         </div>
       </section>
     </div>
