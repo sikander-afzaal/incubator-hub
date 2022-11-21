@@ -1,0 +1,21 @@
+@font-face {
+  font-family: MoreSugar;
+  src: url("/MoreSugar-Thin.ttf");
+  font-weight: 300;
+}
+@font-face {
+  font-family: MoreSugar;
+  src: url("/MoreSugar-Regular.ttf");
+  font-weight: 400;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "MoreSugar", "sans-serif";
+}
+:root {
+  --light-brown: #fff7e5;
+  --med-brown: #f2d1b7;
+  --yellow: #f1c75d;
+}
