@@ -165,6 +165,7 @@
   flex-direction: column;
   text-align: center;
   gap: 40px;
+  overflow-y: hidden;
 }
 .last > img {
   max-width: 400px;

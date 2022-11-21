@@ -19,3 +19,6 @@
   --med-brown: #f2d1b7;
   --yellow: #f1c75d;
 }
+body {
+  overflow-x: hidden;
+}
