@@ -148,7 +148,7 @@ function App() {
       </section>
       <section className="last">
         <Fade top>
-          <h2 className="heading">The Incubator Hub</h2>
+          <h2 className="heading">The Incubator</h2>
         </Fade>
         <Fade>
           <img src="/hero-hen.png" alt="" />
