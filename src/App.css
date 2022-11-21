@@ -216,6 +216,26 @@
   width: 200px;
   object-fit: contain;
 }
+.contact {
+  width: 100%;
+  padding: 90px 20px;
+  background-color: var(--yellow);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  gap: 40px;
+  overflow-y: hidden;
+}
+.contact .heading {
+  line-height: 1;
+  margin: 0px;
+}
+.contact a {
+  font-size: 20px;
+  color: black;
+}
 @media screen and (max-width: 650px) {
   .hero h1 {
     font-size: 50px;
@@ -262,5 +282,8 @@
     width: 100%;
     justify-content: space-around;
     right: 0;
+  }
+  .contact {
+    padding: 40px 20px;
   }
 }

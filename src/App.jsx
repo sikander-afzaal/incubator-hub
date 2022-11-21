@@ -202,6 +202,10 @@ function App() {
           )}
         </div>
       </section>
+      <div className="contact">
+        <h2 className="heading">Contact Details</h2>
+        <a href="mailto:Info@incubator-hub.com">Info@incubator-hub.com</a>
+      </div>
     </div>
   );
 }
