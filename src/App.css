@@ -9,6 +9,21 @@
   text-align: center;
   padding: 50px 20px;
 }
+.social-top {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  top: 2%;
+  right: 1%;
+  gap: 20px;
+}
+.social-top a svg,
+.social-top img {
+  width: 25px;
+  height: 25px;
+  color: black;
+}
 .hero img {
   max-width: 400px;
   width: 100%;
@@ -73,13 +88,14 @@
   gap: 40px;
 }
 .traditional ul {
+  margin-top: -40px;
   padding-inline: 20px;
 }
 .traditional ul li {
   text-align: left;
   max-width: 950px;
   font-size: 30px;
-  margin: 40px 0px;
+  margin-bottom: 40px;
 }
 .traditional h3 {
   font-size: 50px;
@@ -241,5 +257,10 @@
   }
   .traditional h4 {
     font-size: 24px;
+  }
+  .social-top {
+    width: 100%;
+    justify-content: space-around;
+    right: 0;
   }
 }

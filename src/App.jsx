@@ -1,3 +1,8 @@
+import {
+  faMedium,
+  faTelegram,
+  faTwitter,
+} from "@fortawesome/free-brands-svg-icons";
 import { faCheck } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Fade } from "react-reveal";
@@ -6,6 +11,20 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
+      <div className="social-top">
+        <a href="#" target={"blank"}>
+          <FontAwesomeIcon icon={faTelegram} />
+        </a>
+        <a href="#" target={"blank"}>
+          <img src="/link-tree.svg" alt="" />
+        </a>
+        <a href="#" target={"blank"}>
+          <FontAwesomeIcon icon={faTwitter} />
+        </a>
+        <a href="#" target={"blank"}>
+          <FontAwesomeIcon icon={faMedium} />
+        </a>
+      </div>
       <section className="hero">
         <Fade top>
           <h1>
@@ -148,7 +167,7 @@ function App() {
       </section>
       <section className="last">
         <Fade top>
-          <h2 className="heading">The Incubator</h2>
+          <h2 className="heading">The Incubator Hub</h2>
         </Fade>
         <Fade>
           <img src="/hero-hen.png" alt="" />
