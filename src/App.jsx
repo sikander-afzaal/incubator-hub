@@ -42,7 +42,7 @@ function App() {
         <Fade top>
           <h2 className="heading">MORAL OF THE STORY/MISSION</h2>
         </Fade>
-        <Fade left cascade duration={1000} delay={300}>
+        <Fade left duration={1000} delay={300}>
           <p>
             The Incubator Hub brings the best startup and newly launched crypto
             projects infront of potential investors and blockchain enthusiasts
@@ -66,7 +66,7 @@ function App() {
         </Fade>
 
         <ul>
-          <Fade bottom cascade duration={1000} delay={400}>
+          <Fade bottom duration={1000} delay={400}>
             <li>seed funding </li>
             <li>Full project Tech builds</li>
             <li>VC funding</li>
@@ -79,7 +79,7 @@ function App() {
           <h2 className="heading">TRADITIONAL AMA LOUNGE WORKFLOW</h2>
         </Fade>
         <ul>
-          <Fade left cascade duration={1000} delay={300}>
+          <Fade left duration={1000} delay={300}>
             <li>
               lounge owners incentivise there audience with giveaways and
               promises of amazing projects through the door
@@ -112,7 +112,7 @@ function App() {
           </h2>
         </Fade>
         <ul>
-          <Fade left cascade duration={1000} delay={300}>
+          <Fade left duration={1000} delay={300}>
             {" "}
             <li>
               lounge owners incentivise the group with giveaways and promises of
@@ -130,7 +130,7 @@ function App() {
         <Fade bottom delay={500}>
           <h4>AND THEN ????</h4>
         </Fade>
-        <Fade bottom cascade delay={800}>
+        <Fade bottom delay={800}>
           <div className="flex-row">
             <FontAwesomeIcon icon={faCheck} />
             <p>
