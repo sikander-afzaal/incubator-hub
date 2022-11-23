@@ -1,7 +1,9 @@
 import {
+  faFacebook,
   faMedium,
   faTelegram,
   faTwitter,
+  faYoutube,
 } from "@fortawesome/free-brands-svg-icons";
 import { faCheck } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
@@ -15,14 +17,26 @@ function App() {
         <a href="#" target={"blank"}>
           <FontAwesomeIcon icon={faTelegram} />
         </a>
-        <a href="#" target={"blank"}>
+        <a href="https://linktr.ee/incubator_hub" target={"blank"}>
           <img src="/link-tree.svg" alt="" />
         </a>
-        <a href="#" target={"blank"}>
+        <a href="https://twitter.com/the_incubator_" target={"blank"}>
           <FontAwesomeIcon icon={faTwitter} />
         </a>
-        <a href="#" target={"blank"}>
+        <a href="https://medium.com/@info_63653" target={"blank"}>
           <FontAwesomeIcon icon={faMedium} />
+        </a>
+        <a
+          href="https://www.youtube.com/channel/UCJa5p0NZB5EEe8zXi9Qv4WQ"
+          target={"blank"}
+        >
+          <FontAwesomeIcon icon={faYoutube} />
+        </a>
+        <a
+          href="https://www.facebook.com/groups/1154911348475503"
+          target={"blank"}
+        >
+          <FontAwesomeIcon icon={faFacebook} />
         </a>
       </div>
       <section className="hero">
