@@ -197,17 +197,29 @@ function App() {
           {window.innerWidth > 650 ? (
             <Fade bottom>
               <div className="row">
-                <img src="/logo-white.png" alt="" />
-                <img src="/trans shib.png" alt="" />
-                <img src="/wagmi.png" alt="" />
+                <a href="https://the-labz.com" target={"blank"}>
+                  <img src="/logo-white.png" alt="" />
+                </a>
+                <a href="https://shibanft.co.uk" target={"blank"}>
+                  <img src="/trans shib.png" alt="" />
+                </a>
+                <a href="https://wagmilabz.com" target={"blank"}>
+                  <img src="/wagmi.png" alt="" />
+                </a>
               </div>
             </Fade>
           ) : (
             <div className="row">
               <Fade left cascade>
-                <img src="/logo-white.png" alt="" />
-                <img src="/trans shib.png" alt="" />
-                <img src="/wagmi.png" alt="" />
+                <a href="https://the-labz.com" target={"blank"}>
+                  <img src="/logo-white.png" alt="" />
+                </a>
+                <a href="https://shibanft.co.uk" target={"blank"}>
+                  <img src="/trans shib.png" alt="" />
+                </a>
+                <a href="https://wagmilabz.com" target={"blank"}>
+                  <img src="/wagmi.png" alt="" />
+                </a>
               </Fade>
             </div>
           )}

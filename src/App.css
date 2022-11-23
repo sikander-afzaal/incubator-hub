@@ -187,6 +187,7 @@
   max-width: 400px;
   width: 100%;
   object-fit: contain;
+  cursor: pointer;
 }
 .last p {
   font-size: 30px;
