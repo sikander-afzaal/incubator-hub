@@ -14,9 +14,6 @@ function App() {
   return (
     <div className="App">
       <div className="social-top">
-        <a href="#" target={"blank"}>
-          <FontAwesomeIcon icon={faTelegram} />
-        </a>
         <a href="https://linktr.ee/incubator_hub" target={"blank"}>
           <img src="/link-tree.svg" alt="" />
         </a>
