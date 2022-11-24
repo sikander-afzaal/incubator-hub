@@ -3,14 +3,18 @@ import { Route, Routes } from "react-router-dom";
 import Home from "./Pages/Home/Home";
 import Blogs from "./Pages/Blogs/Blogs";
 import BlogDetail from "./Pages/BlogDetail/BlogDetail";
+import BlogDetail2 from "./Pages/BlogDetail/BlogDetail2";
 
 function App() {
   return (
     <div className="App">
       <Routes>
         <Route element={<Home />} path="/" />
-        <Route element={<Blogs />} path="/blogs" />
-        <Route element={<BlogDetail />} path="/blogs/:num" />
+        <Route path="/blogs/">
+          <Route index path="" element={<Blogs />} />
+          <Route path="blog1" element={<BlogDetail />} />
+          <Route path="blog2" element={<BlogDetail2 />} />
+        </Route>
       </Routes>
     </div>
   );

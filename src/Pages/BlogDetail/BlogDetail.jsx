@@ -34,7 +34,11 @@ const BlogDetail = () => {
         </p>
         <p>
           The Chief Executive Officer of{" "}
-          <a href="The-Labz.com" target={"blank"} style={{ color: "black" }}>
+          <a
+            href="https://The-Labz.com"
+            target={"blank"}
+            style={{ color: "black" }}
+          >
             The-Labz.com
           </a>{" "}
           commented “In line with our beliefs of blockchain being inclusive and
@@ -82,7 +86,11 @@ const BlogDetail = () => {
         </ul>
         <p>
           To claim a free unique professor, visit{" "}
-          <a href="wagmilabz.com" target={"blank"} style={{ color: "black" }}>
+          <a
+            href="http://wagmilabz.com"
+            target={"blank"}
+            style={{ color: "black" }}
+          >
             wagmilabz.com
           </a>{" "}
           and look out for the ‘mint free professor’ tab. They will need their
@@ -121,10 +129,26 @@ const BlogDetail = () => {
             Contact Person: <strong>D. Jones</strong>{" "}
           </h5>
           <h5>
-            Email: <strong>info@incubator-hub.com</strong>{" "}
+            Email:{" "}
+            <strong>
+              <a
+                style={{ color: "black", textDecoration: "none" }}
+                href="mailto:info@incubator-hub.com"
+              >
+                info@incubator-hub.com
+              </a>
+            </strong>{" "}
           </h5>
           <h5>
-            Website: <strong>www.incubator-hub.com</strong>
+            Website:{" "}
+            <strong>
+              <a
+                style={{ color: "black", textDecoration: "none" }}
+                href="www.incubator-hub.com"
+              >
+                www.incubator-hub.com
+              </a>
+            </strong>
           </h5>
           <h5>
             {" "}

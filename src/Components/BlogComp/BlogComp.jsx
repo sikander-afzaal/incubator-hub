@@ -1,9 +1,9 @@
 import { Link } from "react-router-dom";
 import "./BlogComp.css";
 
-const BlogComp = ({ date, img, desc, title, writer, number }) => {
+const BlogComp = ({ date, img, desc, title, writer, url }) => {
   return (
-    <Link to={`/blogs/${number}`} className="blog-box">
+    <Link to={`/blogs/${url}`} className="blog-box">
       <img src={img} alt="" />
       <h3 className="pop">{title}</h3>
       <p className="pop">{desc}</p>

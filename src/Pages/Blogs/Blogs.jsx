@@ -13,7 +13,7 @@ const Blogs = () => {
       <div className="blog-grid">
         <BlogComp
           img="/blog1.png"
-          number={1}
+          url="blog1"
           title="How The Labz are emerging as the go-to Tech builder in the Web3 sphere"
           desc="The Labz are catalyzing the adoption of blockchain technology and Web3 infrastructure at scale through building cutting-edge decentralized ecosystems and product builds."
           writer="LABZ"
@@ -21,7 +21,7 @@ const Blogs = () => {
         />
         <BlogComp
           img="/blog2.png"
-          number={2}
+          url="blog2"
           title="Incubator Hub: The XRPL network has established its first AMA Lounge"
           desc="This AMA Lounge will provide comprehensive daily news sources from start-up projects on the network and beyond."
           writer="LABZ"
