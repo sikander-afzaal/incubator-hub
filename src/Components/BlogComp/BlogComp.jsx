@@ -1,8 +1,9 @@
+import { Link } from "react-router-dom";
 import "./BlogComp.css";
 
 const BlogComp = ({ date, img, desc, title, writer }) => {
   return (
-    <div className="blog-box">
+    <Link to={`/blogs/${title}`} className="blog-box">
       <img src={img} alt="" />
       <h3 className="pop">{title}</h3>
       <p className="pop">{desc}</p>
@@ -12,7 +13,7 @@ const BlogComp = ({ date, img, desc, title, writer }) => {
         </h4>
         <h5 className="pop">{date}</h5>
       </div>
-    </div>
+    </Link>
   );
 };
 

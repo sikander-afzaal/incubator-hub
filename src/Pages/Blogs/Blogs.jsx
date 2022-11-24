@@ -9,7 +9,7 @@ const Blogs = () => {
         <BlogComp
           img="/blog-test.jpg"
           title="First time Bear market? Advice from Bitcoin Bull Michael Saylor"
-          desc="    Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae illum sed, adipisci mollitia optio repellendus autem repellat non nam quia."
+          desc="Lorem, ipsum dolor sit amet consectetur adipisicing elit. Vitae illum sed, adipisci mollitia optio repellendus autem repellat non nam quia."
           writer="Joseph Hall"
           date="1 HOUR AGO"
         />
