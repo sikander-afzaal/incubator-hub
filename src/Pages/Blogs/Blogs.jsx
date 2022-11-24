@@ -1,9 +1,14 @@
 import "./Blogs.css";
 import BlogComp from "../../Components/BlogComp/BlogComp";
-
+import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Link } from "react-router-dom";
 const Blogs = () => {
   return (
     <div className="blogs">
+      <Link to="/" className="back-btn">
+        <FontAwesomeIcon icon={faArrowLeft} />
+      </Link>
       <h1>Blogs</h1>
       <div className="blog-grid">
         <BlogComp

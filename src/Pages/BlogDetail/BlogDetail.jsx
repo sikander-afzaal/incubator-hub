@@ -1,8 +1,14 @@
 import "./BlogDetail.css";
+import { faArrowLeft } from "@fortawesome/free-solid-svg-icons";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { Link } from "react-router-dom";
 
 const BlogDetail = () => {
   return (
     <div className="blogWrapper">
+      <Link to="/blogs" className="back-btn">
+        <FontAwesomeIcon icon={faArrowLeft} />
+      </Link>
       <div className="blogDetail">
         <h1 className="pop">
           First time Bear market? Advice from Bitcoin Bull Michael Saylor

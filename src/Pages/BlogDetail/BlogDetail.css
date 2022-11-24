@@ -8,6 +8,13 @@
   width: 100%;
   max-width: 1200px;
 }
+.back-btn {
+  position: absolute;
+  top: 2%;
+  left: 2%;
+  color: black;
+  font-size: 30px;
+}
 .blogWrapper {
   width: 100%;
   display: flex;
@@ -33,10 +40,17 @@
   margin: 10px 0px;
   font-size: 23px;
 }
-@media screen and (max-width: 700px) {
+@media screen and (max-width: 1300px) {
   .blogDetail {
-    padding: 20px;
+    padding: 60px 20px;
   }
+  .blogWrapper .back-btn {
+    top: 2%;
+    left: 3%;
+    font-size: 25px;
+  }
+}
+@media screen and (max-width: 700px) {
   .blogDetail h1 {
     font-size: 25px;
   }
