@@ -8,6 +8,10 @@
   width: 100%;
   max-width: 1200px;
 }
+.blogDetail * {
+  font-family: "Poppins", sans-serif !important;
+}
+
 .back-btn {
   position: absolute;
   top: 2%;
@@ -40,6 +44,30 @@
   margin: 10px 0px;
   font-size: 23px;
 }
+.blogDetail ul {
+  list-style-type: none;
+  font-size: 23px;
+  margin: 10px 0px;
+}
+.blogDetail li {
+  margin: 10px 0px;
+}
+.mediaContact {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  margin-top: 20px;
+  gap: 10px;
+}
+.mediaContact h4 {
+  font-size: 20px;
+}
+.mediaContact h5 {
+  font-size: 18px;
+  font-weight: 400;
+}
 @media screen and (max-width: 1300px) {
   .blogDetail {
     padding: 60px 20px;
@@ -57,7 +85,8 @@
   .blogDetail h2 {
     font-size: 16px;
   }
-  .blogDetail p {
+  .blogDetail p,
+  .blogDetail li {
     font-size: 16px;
   }
 }
