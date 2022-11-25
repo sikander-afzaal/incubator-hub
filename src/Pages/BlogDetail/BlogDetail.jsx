@@ -144,7 +144,8 @@ const BlogDetail = () => {
             <strong>
               <a
                 style={{ color: "black", textDecoration: "none" }}
-                href="www.incubator-hub.com"
+                href="https://incubator-hub.com/"
+                target={"blank"}
               >
                 www.incubator-hub.com
               </a>
