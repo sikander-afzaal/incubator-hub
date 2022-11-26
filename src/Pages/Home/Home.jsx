@@ -8,6 +8,7 @@ import {
 import { faCheck } from "@fortawesome/free-solid-svg-icons";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { Fade } from "react-reveal";
+import { Link } from "react-router-dom";
 import "./Home.css";
 
 function Home() {
@@ -225,6 +226,9 @@ function Home() {
           )}
         </div>
       </section>
+      <Link className="blog-heading heading" to="/blogs">
+        Blogs
+      </Link>
       <div className="contact">
         <h2 className="heading">Contact Details</h2>
         <a href="mailto:Info@incubator-hub.com">Info@incubator-hub.com</a>

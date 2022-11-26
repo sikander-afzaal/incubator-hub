@@ -237,6 +237,18 @@
   font-size: 20px;
   color: black;
 }
+.blog-heading {
+  width: 100%;
+  background-color: var(--yellow);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-decoration: none;
+  color: black;
+  line-height: 1;
+  margin-bottom: 0px;
+  padding-block: 40px;
+}
 @media screen and (max-width: 650px) {
   .hero h1 {
     font-size: 50px;
@@ -247,6 +259,9 @@
   .heading {
     font-size: 30px;
     margin-bottom: 20px;
+  }
+  .blog-heading {
+    margin: 0px;
   }
   .heading span {
     font-size: 20px;
