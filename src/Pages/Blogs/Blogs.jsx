@@ -27,6 +27,14 @@ const Blogs = () => {
           writer="LABZ"
           date="1 HOUR AGO"
         />
+        <BlogComp
+          img="/blog3.jpg"
+          url="blog3"
+          title="Incubator Hub: just one week since it's inception and leaked plans for passive income generating NFT collection release from the-labz and Wagmilabz.com as the hub hits over 1300 members"
+          desc="It’s been 7 days since the links were made available to the public to join the telegram group targeting fans of the XRPL and BSC community projects , for the free ..."
+          writer="LABZ"
+          date="1 HOUR AGO"
+        />
       </div>
     </div>
   );
