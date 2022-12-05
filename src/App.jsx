@@ -5,6 +5,7 @@ import Blogs from "./Pages/Blogs/Blogs";
 import BlogDetail from "./Pages/BlogDetail/BlogDetail";
 import BlogDetail2 from "./Pages/BlogDetail/BlogDetail2";
 import BlogDetail3 from "./Pages/BlogDetail/BlogDetail3";
+import BlogDetail4 from "./Pages/BlogDetail/BlogDetail4";
 
 function App() {
   return (
@@ -16,6 +17,7 @@ function App() {
           <Route path="blog1" element={<BlogDetail />} />
           <Route path="blog2" element={<BlogDetail2 />} />
           <Route path="blog3" element={<BlogDetail3 />} />
+          <Route path="blog4" element={<BlogDetail4 />} />
         </Route>
       </Routes>
     </div>

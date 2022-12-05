@@ -35,6 +35,14 @@ const Blogs = () => {
           writer="LABZ"
           date="1 HOUR AGO"
         />
+        <BlogComp
+          img="/blog4.jpg"
+          url="blog4"
+          title="KyotoProtocol.io launches its new decentralised exchange, KyotoSwap.io"
+          desc="KyotoProtocol.io has recently been working on acquiring and building their new decentralised exchange (DEX) and has done nothing short of providing their project and community with the consistency of adapting, acquiring and building products that will have a forever lasting Impact within their ecosystem."
+          writer="LABZ"
+          date="1 HOUR AGO"
+        />
       </div>
     </div>
   );
