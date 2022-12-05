@@ -14,7 +14,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -22,7 +22,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -35,7 +35,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -49,7 +49,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -60,7 +60,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -68,7 +68,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -79,7 +79,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -89,7 +89,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -104,7 +104,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -119,7 +119,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -133,7 +133,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -143,7 +143,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -160,7 +160,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -173,7 +173,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -188,7 +188,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -200,7 +200,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoSwap.io
           </a>{" "}
@@ -219,7 +219,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -229,7 +229,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -243,7 +243,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>
@@ -253,7 +253,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
@@ -265,7 +265,7 @@ const BlogDetail4 = () => {
           <a
             href="https://www.kyotoprotocol.io/"
             target={"blank"}
-            style={{ textDecoration: "none", color: "black" }}
+            style={{ color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
