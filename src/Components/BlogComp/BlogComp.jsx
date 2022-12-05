@@ -1,10 +1,10 @@
 import { Link } from "react-router-dom";
 import "./BlogComp.css";
 
-const BlogComp = ({ date, img, desc, title, writer, url }) => {
+const BlogComp = ({ date, img, desc, title, writer, url, contain }) => {
   return (
     <Link to={`/blogs/${url}`} className="blog-box">
-      <img src={img} alt="" />
+      <img style={{ objectFit: contain ? "fill" : "" }} src={img} alt="" />
       <h3 className="pop">{title}</h3>
       <p className="pop">{desc}</p>
       <div className="bottom-blog">

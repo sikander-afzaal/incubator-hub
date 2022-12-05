@@ -38,6 +38,7 @@ const Blogs = () => {
         <BlogComp
           img="/blog4.jpg"
           url="blog4"
+          contain
           title="KyotoProtocol.io launches its new decentralised exchange, KyotoSwap.io"
           desc="KyotoProtocol.io has recently been working on acquiring and building their new decentralised exchange (DEX) and has done nothing short of providing their project and community with the consistency of adapting, acquiring and building products that will have a forever lasting Impact within their ecosystem."
           writer="LABZ"

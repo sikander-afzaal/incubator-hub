@@ -12,13 +12,20 @@ const BlogDetail4 = () => {
       <div className="blogDetail">
         <h1>
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
             KyotoProtocol.io
           </a>{" "}
-          launches its new decentralised exchange, KyotoSwap.io
+          launches its new decentralised exchange,{" "}
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
         </h1>
         <h2>
           By: <strong>LABZ</strong>
@@ -26,7 +33,7 @@ const BlogDetail4 = () => {
         <img src="/blog4.jpg" alt="" />
         <p>
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
@@ -39,35 +46,63 @@ const BlogDetail4 = () => {
           Impact within their ecosystem.
         </p>
         <p>
-          KyotoSwap.io will be launched on the Binance Smart Chain network and
-          has an expected launch date set for the week commencing 5th December
-          2022. With a large array of projects already looking to launch and
-          partner with{" "}
           <a
             href="https://www.kyotoswap.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
+            KyotoSwap.io
+          </a>{" "}
+          will be launched on the Binance Smart Chain network and has an
+          expected launch date set for the week commencing 5th December 2022.
+          With a large array of projects already looking to launch and partner
+          with{" "}
+          <a
+            href="https://www.kyotoprotocol.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
             KyotoProtocol.io
           </a>{" "}
-          and KyotoSwap.io, the platform is set to have a positive uplift from
-          the start.
+          and{" "}
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          , the platform is set to have a positive uplift from the start.
         </p>
         <p>
-          What is KyotoSwap.io & What makes it different from other
-          decentralised exchanges?.
+          What is{" "}
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          & What makes it different from other decentralised exchanges?.
         </p>
         <p>
-          KyotoSwap.io is set to create everlasting foundations as their DEX
-          (Decentralised Exchange) and is set to standardise additional utility
-          and function on top of core fundamentals to provide stability and
-          growth for underlying assets within.
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          is set to create everlasting foundations as their DEX (Decentralised
+          Exchange) and is set to standardise additional utility and function on
+          top of core fundamentals to provide stability and growth for
+          underlying assets within.
         </p>
         <p>
           The standardisation of generic decentralised exchanges and failure to
           implement advancing and unique utility is not something
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
@@ -80,16 +115,38 @@ const BlogDetail4 = () => {
           Launchpad & Integration systems : The KyotoSwap Launchpad will be one
           of the main attractions for projects who wish to take their vision to
           the next level prior to being established on their first decentralised
-          exchange. KyotoSwap.io will offer incentives such as; In-house
-          development support, marketing support & auditing services. With a
-          focus to support positive impact products, building on blockchain.
+          exchange.{" "}
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          will offer incentives such as; In-house development support, marketing
+          support & auditing services. With a focus to support positive impact
+          products, building on blockchain.
         </p>
         <p>
           Established projects also have the ability to provide additional
-          liquidity or to completely merge their liquidity with KyotoSwap.io and
-          in doing so will benefit from aspects such as variable trading taxes,
-          high security asset/liquidity management, ability to retain fees and
-          much more. Each project that migrates liquidity over to KyotoSwap.io
+          liquidity or to completely merge their liquidity with{" "}
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          and in doing so will benefit from aspects such as variable trading
+          taxes, high security asset/liquidity management, ability to retain
+          fees and much more. Each project that migrates liquidity over to{" "}
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
           can be confident in the security, whilst knowing the conscious change
           at no cost to the project will make a positive impact to our planet. -
           An unrivaled proposition. ,
@@ -101,7 +158,7 @@ const BlogDetail4 = () => {
         <p>
           The{" "}
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
@@ -113,22 +170,42 @@ const BlogDetail4 = () => {
           blockchain technology.
         </p>
         <p>
-          KyotoSwap.io will not only be focusing on creating a platform where
-          projects can trade and list their currency, but also a place to have a
-          positive impact just by being a part of the DEX.
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          will not only be focusing on creating a platform where projects can
+          trade and list their currency, but also a place to have a positive
+          impact just by being a part of the DEX.
         </p>
         <p>
           Assets within the KyotoSwap platform will automatically play a huge
           part towards positive contributions to environmental efforts. It’s
-          stated that 20% of all KyotoSwap.io fees will be pledged towards
-          eco-positive contributions such as planting trees, environmental
-          clean-ups, providing essential utilities to those in need & further
-          philanthropic efforts.
+          stated that 20% of all{" "}
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          fees will be pledged towards eco-positive contributions such as
+          planting trees, environmental clean-ups, providing essential utilities
+          to those in need & further philanthropic efforts.
         </p>
         <p>
-          KyotoSwap.io will generate revenue from different avenues such as
-          their integrated Launchpad, Rafflez, Trading fees, Listing fees &
-          more.
+          <a
+            href="https://www.kyotoswap.io/"
+            target={"blank"}
+            style={{ textDecoration: "none", color: "black" }}
+          >
+            KyotoSwap.io
+          </a>{" "}
+          will generate revenue from different avenues such as their integrated
+          Launchpad, Rafflez, Trading fees, Listing fees & more.
         </p>
         <p>Summary: Creating the bridge between DeFi & Kyoto Blockchain</p>
         <p>
@@ -140,7 +217,7 @@ const BlogDetail4 = () => {
         <p>
           The revolution in which{" "}
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
@@ -150,7 +227,7 @@ const BlogDetail4 = () => {
           decentralised finance which will lead to being the foundations of an
           empire within the crypto-sphere.
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
@@ -164,7 +241,7 @@ const BlogDetail4 = () => {
         <p>
           About{" "}
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
@@ -174,7 +251,7 @@ const BlogDetail4 = () => {
         </p>
         <p>
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
@@ -186,7 +263,7 @@ const BlogDetail4 = () => {
           contracts on a secure, fully transparent blockchain ledger, creating
           the ultimate standard for the carbon credit industry.
           <a
-            href="https://www.kyotoswap.io/"
+            href="https://www.kyotoprotocol.io/"
             target={"blank"}
             style={{ textDecoration: "none", color: "black" }}
           >
